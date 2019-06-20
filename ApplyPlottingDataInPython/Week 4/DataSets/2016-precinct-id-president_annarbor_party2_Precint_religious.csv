@@ -1,0 +1,295 @@
+,county_name,precinct,Ward2,Precinct,candidate,candidate_normalized,party,mode,votes,religious_voting_place,party2
+0,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 10,4,10,Darrell Castle,castle,us taxpayers,total,2,0,other
+1,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 10,4,10,Hillary Clinton,clinton,democratic,total,643,0,democratic
+2,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 10,4,10,Gary Johnson,johnson,libertarian,total,35,0,other
+3,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 10,4,10,Jill Stein,stein,green,total,7,0,other
+4,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 10,4,10,Donald Trump,trump,republican,total,160,0,republican
+5,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 10,4,10,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+6,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 3,1,3,Darrell Castle,castle,us taxpayers,total,2,0,other
+7,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 3,1,3,Hillary Clinton,clinton,democratic,total,596,0,democratic
+8,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 3,1,3,Gary Johnson,johnson,libertarian,total,18,0,other
+9,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 3,1,3,Jill Stein,stein,green,total,9,0,other
+10,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 3,1,3,Donald Trump,trump,republican,total,31,0,republican
+11,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 3,1,3,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+12,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 5,1,5,Darrell Castle,castle,us taxpayers,total,1,0,other
+13,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 5,1,5,Hillary Clinton,clinton,democratic,total,939,0,democratic
+14,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 5,1,5,Gary Johnson,johnson,libertarian,total,19,0,other
+15,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 5,1,5,Jill Stein,stein,green,total,16,0,other
+16,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 5,1,5,Donald Trump,trump,republican,total,79,0,republican
+17,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 5,1,5,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+18,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 5,4,5,Darrell Castle,castle,us taxpayers,total,0,1,other
+19,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 5,4,5,Hillary Clinton,clinton,democratic,total,1061,1,democratic
+20,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 5,4,5,Gary Johnson,johnson,libertarian,total,41,1,other
+21,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 5,4,5,Jill Stein,stein,green,total,38,1,other
+22,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 5,4,5,Donald Trump,trump,republican,total,140,1,republican
+23,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 5,4,5,Emidio Soltysik,soltysik,natural law party,total,1,1,other
+24,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 10,5,10,Darrell Castle,castle,us taxpayers,total,8,0,other
+25,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 10,5,10,Hillary Clinton,clinton,democratic,total,1253,0,democratic
+26,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 10,5,10,Gary Johnson,johnson,libertarian,total,44,0,other
+27,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 10,5,10,Jill Stein,stein,green,total,31,0,other
+28,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 10,5,10,Donald Trump,trump,republican,total,298,0,republican
+29,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 10,5,10,Emidio Soltysik,soltysik,natural law party,total,1,0,other
+30,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 9,2,9,Darrell Castle,castle,us taxpayers,total,2,0,other
+31,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 9,2,9,Hillary Clinton,clinton,democratic,total,1224,0,democratic
+32,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 9,2,9,Gary Johnson,johnson,libertarian,total,39,0,other
+33,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 9,2,9,Jill Stein,stein,green,total,15,0,other
+34,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 9,2,9,Donald Trump,trump,republican,total,252,0,republican
+35,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 9,2,9,Emidio Soltysik,soltysik,natural law party,total,1,0,other
+36,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 6,3,6,Darrell Castle,castle,us taxpayers,total,3,0,other
+37,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 6,3,6,Hillary Clinton,clinton,democratic,total,866,0,democratic
+38,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 6,3,6,Gary Johnson,johnson,libertarian,total,35,0,other
+39,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 6,3,6,Jill Stein,stein,green,total,26,0,other
+40,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 6,3,6,Donald Trump,trump,republican,total,160,0,republican
+41,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 6,3,6,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+42,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 10,1,10,Darrell Castle,castle,us taxpayers,total,5,0,other
+43,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 10,1,10,Hillary Clinton,clinton,democratic,total,1200,0,democratic
+44,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 10,1,10,Gary Johnson,johnson,libertarian,total,32,0,other
+45,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 10,1,10,Jill Stein,stein,green,total,32,0,other
+46,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 10,1,10,Donald Trump,trump,republican,total,160,0,republican
+47,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 10,1,10,Emidio Soltysik,soltysik,natural law party,total,2,0,other
+48,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 7,1,7,Darrell Castle,castle,us taxpayers,total,0,0,other
+49,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 7,1,7,Hillary Clinton,clinton,democratic,total,672,0,democratic
+50,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 7,1,7,Gary Johnson,johnson,libertarian,total,29,0,other
+51,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 7,1,7,Jill Stein,stein,green,total,14,0,other
+52,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 7,1,7,Donald Trump,trump,republican,total,96,0,republican
+53,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 7,1,7,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+54,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 6,5,6,Darrell Castle,castle,us taxpayers,total,4,0,other
+55,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 6,5,6,Hillary Clinton,clinton,democratic,total,1059,0,democratic
+56,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 6,5,6,Gary Johnson,johnson,libertarian,total,22,0,other
+57,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 6,5,6,Jill Stein,stein,green,total,12,0,other
+58,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 6,5,6,Donald Trump,trump,republican,total,98,0,republican
+59,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 6,5,6,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+60,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 5,2,5,Darrell Castle,castle,us taxpayers,total,1,0,other
+61,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 5,2,5,Hillary Clinton,clinton,democratic,total,1120,0,democratic
+62,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 5,2,5,Gary Johnson,johnson,libertarian,total,36,0,other
+63,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 5,2,5,Jill Stein,stein,green,total,8,0,other
+64,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 5,2,5,Donald Trump,trump,republican,total,198,0,republican
+65,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 5,2,5,Emidio Soltysik,soltysik,natural law party,total,1,0,other
+66,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 6,4,6,Darrell Castle,castle,us taxpayers,total,3,0,other
+67,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 6,4,6,Hillary Clinton,clinton,democratic,total,1144,0,democratic
+68,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 6,4,6,Gary Johnson,johnson,libertarian,total,57,0,other
+69,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 6,4,6,Jill Stein,stein,green,total,30,0,other
+70,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 6,4,6,Donald Trump,trump,republican,total,254,0,republican
+71,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 6,4,6,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+72,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 3,5,3,Darrell Castle,castle,us taxpayers,total,0,1,other
+73,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 3,5,3,Hillary Clinton,clinton,democratic,total,791,1,democratic
+74,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 3,5,3,Gary Johnson,johnson,libertarian,total,8,1,other
+75,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 3,5,3,Jill Stein,stein,green,total,20,1,other
+76,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 3,5,3,Donald Trump,trump,republican,total,49,1,republican
+77,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 3,5,3,Emidio Soltysik,soltysik,natural law party,total,2,0,other
+78,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 11,5,11,Darrell Castle,castle,us taxpayers,total,3,0,other
+79,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 11,5,11,Hillary Clinton,clinton,democratic,total,1684,0,democratic
+80,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 11,5,11,Gary Johnson,johnson,libertarian,total,34,0,other
+81,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 11,5,11,Jill Stein,stein,green,total,25,0,other
+82,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 11,5,11,Donald Trump,trump,republican,total,199,0,republican
+83,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 11,5,11,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+84,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 3,2,3,Darrell Castle,castle,us taxpayers,total,1,0,other
+85,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 3,2,3,Hillary Clinton,clinton,democratic,total,767,0,democratic
+86,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 3,2,3,Gary Johnson,johnson,libertarian,total,22,0,other
+87,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 3,2,3,Jill Stein,stein,green,total,4,0,other
+88,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 3,2,3,Donald Trump,trump,republican,total,104,0,republican
+89,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 3,2,3,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+90,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 4,4,4,Darrell Castle,castle,us taxpayers,total,1,0,other
+91,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 4,4,4,Hillary Clinton,clinton,democratic,total,1268,0,democratic
+92,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 4,4,4,Gary Johnson,johnson,libertarian,total,35,0,other
+93,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 4,4,4,Jill Stein,stein,green,total,19,0,other
+94,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 4,4,4,Donald Trump,trump,republican,total,182,0,republican
+95,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 4,4,4,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+96,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 2,3,2,Darrell Castle,castle,us taxpayers,total,0,0,other
+97,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 2,3,2,Hillary Clinton,clinton,democratic,total,1104,0,democratic
+98,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 2,3,2,Gary Johnson,johnson,libertarian,total,34,0,other
+99,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 2,3,2,Jill Stein,stein,green,total,8,0,other
+100,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 2,3,2,Donald Trump,trump,republican,total,104,0,republican
+101,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 2,3,2,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+102,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 1,4,1,Darrell Castle,castle,us taxpayers,total,0,0,other
+103,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 1,4,1,Hillary Clinton,clinton,democratic,total,746,0,democratic
+104,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 1,4,1,Gary Johnson,johnson,libertarian,total,38,0,other
+105,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 1,4,1,Jill Stein,stein,green,total,7,0,other
+106,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 1,4,1,Donald Trump,trump,republican,total,92,0,republican
+107,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 1,4,1,Emidio Soltysik,soltysik,natural law party,total,1,0,other
+108,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 7,2,7,Darrell Castle,castle,us taxpayers,total,0,0,other
+109,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 7,2,7,Hillary Clinton,clinton,democratic,total,1220,0,democratic
+110,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 7,2,7,Gary Johnson,johnson,libertarian,total,27,0,other
+111,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 7,2,7,Jill Stein,stein,green,total,16,0,other
+112,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 7,2,7,Donald Trump,trump,republican,total,220,0,republican
+113,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 7,2,7,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+114,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 1,3,1,Darrell Castle,castle,us taxpayers,total,0,0,other
+115,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 1,3,1,Hillary Clinton,clinton,democratic,total,1040,0,democratic
+116,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 1,3,1,Gary Johnson,johnson,libertarian,total,26,0,other
+117,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 1,3,1,Jill Stein,stein,green,total,10,0,other
+118,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 1,3,1,Donald Trump,trump,republican,total,116,0,republican
+119,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 1,3,1,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+120,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 4,1,4,Darrell Castle,castle,us taxpayers,total,2,1,other
+121,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 4,1,4,Hillary Clinton,clinton,democratic,total,587,1,democratic
+122,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 4,1,4,Gary Johnson,johnson,libertarian,total,11,1,other
+123,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 4,1,4,Jill Stein,stein,green,total,9,1,other
+124,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 4,1,4,Donald Trump,trump,republican,total,31,1,republican
+125,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 4,1,4,Emidio Soltysik,soltysik,natural law party,total,1,1,other
+126,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 8,3,8,Darrell Castle,castle,us taxpayers,total,3,0,other
+127,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 8,3,8,Hillary Clinton,clinton,democratic,total,1149,0,democratic
+128,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 8,3,8,Gary Johnson,johnson,libertarian,total,29,0,other
+129,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 8,3,8,Jill Stein,stein,green,total,21,0,other
+130,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 8,3,8,Donald Trump,trump,republican,total,207,0,republican
+131,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 8,3,8,Emidio Soltysik,soltysik,natural law party,total,4,0,other
+132,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 2,4,2,Darrell Castle,castle,us taxpayers,total,0,0,other
+133,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 2,4,2,Hillary Clinton,clinton,democratic,total,525,0,democratic
+134,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 2,4,2,Gary Johnson,johnson,libertarian,total,17,0,other
+135,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 2,4,2,Jill Stein,stein,green,total,10,0,other
+136,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 2,4,2,Donald Trump,trump,republican,total,40,0,republican
+137,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 2,4,2,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+138,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 5,3,5,Darrell Castle,castle,us taxpayers,total,7,0,other
+139,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 5,3,5,Hillary Clinton,clinton,democratic,total,1199,0,democratic
+140,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 5,3,5,Gary Johnson,johnson,libertarian,total,20,0,other
+141,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 5,3,5,Jill Stein,stein,green,total,32,0,other
+142,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 5,3,5,Donald Trump,trump,republican,total,215,0,republican
+143,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 5,3,5,Emidio Soltysik,soltysik,natural law party,total,2,0,other
+144,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 6,2,6,Darrell Castle,castle,us taxpayers,total,3,0,other
+145,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 6,2,6,Hillary Clinton,clinton,democratic,total,1114,0,democratic
+146,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 6,2,6,Gary Johnson,johnson,libertarian,total,35,0,other
+147,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 6,2,6,Jill Stein,stein,green,total,14,0,other
+148,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 6,2,6,Donald Trump,trump,republican,total,213,0,republican
+149,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 6,2,6,Emidio Soltysik,soltysik,natural law party,total,1,0,other
+150,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 2,2,2,Darrell Castle,castle,us taxpayers,total,2,0,other
+151,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 2,2,2,Hillary Clinton,clinton,democratic,total,1017,0,democratic
+152,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 2,2,2,Gary Johnson,johnson,libertarian,total,47,0,other
+153,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 2,2,2,Jill Stein,stein,green,total,11,0,other
+154,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 2,2,2,Donald Trump,trump,republican,total,146,0,republican
+155,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 2,2,2,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+156,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 3,4,3,Darrell Castle,castle,us taxpayers,total,1,0,other
+157,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 3,4,3,Hillary Clinton,clinton,democratic,total,1155,0,democratic
+158,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 3,4,3,Gary Johnson,johnson,libertarian,total,34,0,other
+159,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 3,4,3,Jill Stein,stein,green,total,17,0,other
+160,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 3,4,3,Donald Trump,trump,republican,total,94,0,republican
+161,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 3,4,3,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+162,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 7,3,7,Darrell Castle,castle,us taxpayers,total,4,0,other
+163,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 7,3,7,Hillary Clinton,clinton,democratic,total,1037,0,democratic
+164,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 7,3,7,Gary Johnson,johnson,libertarian,total,27,0,other
+165,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 7,3,7,Jill Stein,stein,green,total,20,0,other
+166,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 7,3,7,Donald Trump,trump,republican,total,221,0,republican
+167,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 7,3,7,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+168,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 3,3,3,Darrell Castle,castle,us taxpayers,total,1,0,other
+169,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 3,3,3,Hillary Clinton,clinton,democratic,total,1663,0,democratic
+170,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 3,3,3,Gary Johnson,johnson,libertarian,total,35,0,other
+171,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 3,3,3,Jill Stein,stein,green,total,14,0,other
+172,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 3,3,3,Donald Trump,trump,republican,total,139,0,republican
+173,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 3,3,3,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+174,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 8,2,8,Darrell Castle,castle,us taxpayers,total,1,1,other
+175,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 8,2,8,Hillary Clinton,clinton,democratic,total,1004,1,democratic
+176,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 8,2,8,Gary Johnson,johnson,libertarian,total,29,1,other
+177,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 8,2,8,Jill Stein,stein,green,total,14,1,other
+178,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 8,2,8,Donald Trump,trump,republican,total,197,1,republican
+179,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 8,2,8,Emidio Soltysik,soltysik,natural law party,total,0,1,other
+180,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 8,4,8,Darrell Castle,castle,us taxpayers,total,2,0,other
+181,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 8,4,8,Hillary Clinton,clinton,democratic,total,1033,0,democratic
+182,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 8,4,8,Gary Johnson,johnson,libertarian,total,41,0,other
+183,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 8,4,8,Jill Stein,stein,green,total,17,0,other
+184,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 8,4,8,Donald Trump,trump,republican,total,160,0,republican
+185,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 8,4,8,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+186,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 4,2,4,Darrell Castle,castle,us taxpayers,total,0,0,other
+187,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 4,2,4,Hillary Clinton,clinton,democratic,total,1024,0,democratic
+188,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 4,2,4,Gary Johnson,johnson,libertarian,total,23,0,other
+189,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 4,2,4,Jill Stein,stein,green,total,5,0,other
+190,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 4,2,4,Donald Trump,trump,republican,total,174,0,republican
+191,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 4,2,4,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+192,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 9,5,9,Darrell Castle,castle,us taxpayers,total,0,0,other
+193,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 9,5,9,Hillary Clinton,clinton,democratic,total,1291,0,democratic
+194,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 9,5,9,Gary Johnson,johnson,libertarian,total,25,0,other
+195,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 9,5,9,Jill Stein,stein,green,total,25,0,other
+196,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 9,5,9,Donald Trump,trump,republican,total,172,0,republican
+197,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 9,5,9,Emidio Soltysik,soltysik,natural law party,total,1,0,other
+198,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 1,1,1,Darrell Castle,castle,us taxpayers,total,4,0,other
+199,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 1,1,1,Hillary Clinton,clinton,democratic,total,1250,0,democratic
+200,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 1,1,1,Gary Johnson,johnson,libertarian,total,35,0,other
+201,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 1,1,1,Jill Stein,stein,green,total,16,0,other
+202,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 1,1,1,Donald Trump,trump,republican,total,137,0,republican
+203,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 1,1,1,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+204,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 8,5,8,Darrell Castle,castle,us taxpayers,total,2,0,other
+205,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 8,5,8,Hillary Clinton,clinton,democratic,total,691,0,democratic
+206,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 8,5,8,Gary Johnson,johnson,libertarian,total,10,0,other
+207,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 8,5,8,Jill Stein,stein,green,total,9,0,other
+208,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 8,5,8,Donald Trump,trump,republican,total,128,0,republican
+209,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 8,5,8,Emidio Soltysik,soltysik,natural law party,total,1,0,other
+210,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 4,3,4,Darrell Castle,castle,us taxpayers,total,2,0,other
+211,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 4,3,4,Hillary Clinton,clinton,democratic,total,1186,0,democratic
+212,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 4,3,4,Gary Johnson,johnson,libertarian,total,48,0,other
+213,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 4,3,4,Jill Stein,stein,green,total,23,0,other
+214,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 4,3,4,Donald Trump,trump,republican,total,168,0,republican
+215,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 4,3,4,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+216,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 7,4,7,Darrell Castle,castle,us taxpayers,total,1,0,other
+217,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 7,4,7,Hillary Clinton,clinton,democratic,total,1258,0,democratic
+218,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 7,4,7,Gary Johnson,johnson,libertarian,total,38,0,other
+219,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 7,4,7,Jill Stein,stein,green,total,17,0,other
+220,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 7,4,7,Donald Trump,trump,republican,total,245,0,republican
+221,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 7,4,7,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+222,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 9,3,9,Darrell Castle,castle,us taxpayers,total,2,0,other
+223,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 9,3,9,Hillary Clinton,clinton,democratic,total,1154,0,democratic
+224,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 9,3,9,Gary Johnson,johnson,libertarian,total,35,0,other
+225,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 9,3,9,Jill Stein,stein,green,total,26,0,other
+226,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 9,3,9,Donald Trump,trump,republican,total,209,0,republican
+227,Washtenaw County,ANN ARBOR CITY; Ward 3; Precinct 9,3,9,Emidio Soltysik,soltysik,natural law party,total,1,0,other
+228,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 7,5,7,Darrell Castle,castle,us taxpayers,total,2,0,other
+229,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 7,5,7,Hillary Clinton,clinton,democratic,total,720,0,democratic
+230,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 7,5,7,Gary Johnson,johnson,libertarian,total,25,0,other
+231,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 7,5,7,Jill Stein,stein,green,total,13,0,other
+232,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 7,5,7,Donald Trump,trump,republican,total,105,0,republican
+233,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 7,5,7,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+234,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 9,1,9,Darrell Castle,castle,us taxpayers,total,5,0,other
+235,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 9,1,9,Hillary Clinton,clinton,democratic,total,1382,0,democratic
+236,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 9,1,9,Gary Johnson,johnson,libertarian,total,42,0,other
+237,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 9,1,9,Jill Stein,stein,green,total,28,0,other
+238,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 9,1,9,Donald Trump,trump,republican,total,276,0,republican
+239,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 9,1,9,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+240,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 1,5,1,Darrell Castle,castle,us taxpayers,total,3,0,other
+241,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 1,5,1,Hillary Clinton,clinton,democratic,total,836,0,democratic
+242,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 1,5,1,Gary Johnson,johnson,libertarian,total,31,0,other
+243,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 1,5,1,Jill Stein,stein,green,total,12,0,other
+244,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 1,5,1,Donald Trump,trump,republican,total,72,0,republican
+245,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 1,5,1,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+246,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 2,5,2,Darrell Castle,castle,us taxpayers,total,1,0,other
+247,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 2,5,2,Hillary Clinton,clinton,democratic,total,1593,0,democratic
+248,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 2,5,2,Gary Johnson,johnson,libertarian,total,28,0,other
+249,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 2,5,2,Jill Stein,stein,green,total,22,0,other
+250,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 2,5,2,Donald Trump,trump,republican,total,100,0,republican
+251,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 2,5,2,Emidio Soltysik,soltysik,natural law party,total,2,0,other
+252,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 1,2,1,Darrell Castle,castle,us taxpayers,total,0,0,other
+253,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 1,2,1,Hillary Clinton,clinton,democratic,total,614,0,democratic
+254,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 1,2,1,Gary Johnson,johnson,libertarian,total,24,0,other
+255,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 1,2,1,Jill Stein,stein,green,total,16,0,other
+256,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 1,2,1,Donald Trump,trump,republican,total,68,0,republican
+257,Washtenaw County,ANN ARBOR CITY; Ward 2; Precinct 1,2,1,Emidio Soltysik,soltysik,natural law party,total,2,0,other
+258,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 5,5,5,Darrell Castle,castle,us taxpayers,total,3,0,other
+259,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 5,5,5,Hillary Clinton,clinton,democratic,total,1385,0,democratic
+260,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 5,5,5,Gary Johnson,johnson,libertarian,total,34,0,other
+261,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 5,5,5,Jill Stein,stein,green,total,26,0,other
+262,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 5,5,5,Donald Trump,trump,republican,total,151,0,republican
+263,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 5,5,5,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+264,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 9,4,9,Darrell Castle,castle,us taxpayers,total,2,0,other
+265,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 9,4,9,Hillary Clinton,clinton,democratic,total,918,0,democratic
+266,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 9,4,9,Gary Johnson,johnson,libertarian,total,38,0,other
+267,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 9,4,9,Jill Stein,stein,green,total,11,0,other
+268,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 9,4,9,Donald Trump,trump,republican,total,221,0,republican
+269,Washtenaw County,ANN ARBOR CITY; Ward 4; Precinct 9,4,9,Emidio Soltysik,soltysik,natural law party,total,1,0,other
+270,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 6,1,6,Darrell Castle,castle,us taxpayers,total,0,0,other
+271,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 6,1,6,Hillary Clinton,clinton,democratic,total,722,0,democratic
+272,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 6,1,6,Gary Johnson,johnson,libertarian,total,22,0,other
+273,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 6,1,6,Jill Stein,stein,green,total,10,0,other
+274,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 6,1,6,Donald Trump,trump,republican,total,68,0,republican
+275,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 6,1,6,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+276,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 8,1,8,Darrell Castle,castle,us taxpayers,total,0,0,other
+277,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 8,1,8,Hillary Clinton,clinton,democratic,total,1075,0,democratic
+278,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 8,1,8,Gary Johnson,johnson,libertarian,total,25,0,other
+279,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 8,1,8,Jill Stein,stein,green,total,8,0,other
+280,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 8,1,8,Donald Trump,trump,republican,total,123,0,republican
+281,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 8,1,8,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+282,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 2,1,2,Darrell Castle,castle,us taxpayers,total,0,0,other
+283,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 2,1,2,Hillary Clinton,clinton,democratic,total,765,0,democratic
+284,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 2,1,2,Gary Johnson,johnson,libertarian,total,18,0,other
+285,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 2,1,2,Jill Stein,stein,green,total,11,0,other
+286,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 2,1,2,Donald Trump,trump,republican,total,95,0,republican
+287,Washtenaw County,ANN ARBOR CITY; Ward 1; Precinct 2,1,2,Emidio Soltysik,soltysik,natural law party,total,0,0,other
+288,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 4,5,4,Darrell Castle,castle,us taxpayers,total,0,0,other
+289,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 4,5,4,Hillary Clinton,clinton,democratic,total,1348,0,democratic
+290,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 4,5,4,Gary Johnson,johnson,libertarian,total,20,0,other
+291,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 4,5,4,Jill Stein,stein,green,total,24,0,other
+292,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 4,5,4,Donald Trump,trump,republican,total,102,0,republican
+293,Washtenaw County,ANN ARBOR CITY; Ward 5; Precinct 4,5,4,Emidio Soltysik,soltysik,natural law party,total,2,0,other
